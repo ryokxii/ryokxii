@@ -1,16 +1,27 @@
-## Hi there 👋
+## Zafer Acar
 
-<!--
-**ryokxii/ryokxii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineering student at ÉTS in Montreal. Two SWE internships so far — developer
+platform work at Desjardins, R&D at YULCOM. I like build systems, payments, and removing
+manual steps from other people's workflows.
 
-Here are some ideas to get you started:
+**Currently:** building a Shopify app to get hands-on with the Admin GraphQL and Billing APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Things I've built
+
+**[Cquired](https://github.com/ryokxii/TODO)** — Freelance contract marketplace connecting
+independents to companies hiring. Laravel + Vue via Inertia, tiered Stripe subscriptions
+driven off webhooks, real-time messaging on Pusher.
+
+**[Bagel Hacks II](https://github.com/ryokxii/TODO)** — Desktop app that answers questions
+about a folder on your machine. Go/Wails, local RAG over quantized models on ONNX Runtime,
+zero network calls. Cites the passage it answered from.
+
+**[actions-audit](https://github.com/ryokxii/TODO)** — Reusable GitHub Actions workflow that
+inventories every action used across a set of repos, flags outdated versions against their
+pinned commit SHAs, opens update PRs, and exports a CSV summary.
+
+### Stack
+
+TypeScript · React · Python · Django · PHP · Laravel · Vue · Go · SQL · Docker · GitHub Actions
+
+Montreal, QC · [LinkedIn](https://linkedin.com/in/zafer-acar-swe)
