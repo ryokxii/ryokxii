@@ -4,8 +4,6 @@ Software engineering student at ÉTS in Montreal. Two SWE internships so far —
 platform work at Desjardins, R&D at YULCOM. I like build systems, payments, and removing
 manual steps from other people's workflows.
 
-**Currently:** building a Shopify app to get hands-on with the Admin GraphQL and Billing APIs.
-
 ### Things I've built
 
 **[Cquired](https://github.com/ryokxii/TODO)** — Freelance contract marketplace connecting
